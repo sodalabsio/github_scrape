@@ -1,0 +1,367 @@
+2023-04-12 02:00:58,738 - INFO - ***france***
+2023-04-12 02:00:58,738 - INFO - * 2009-01-01..2009-01-31 *
+2023-04-12 02:00:58,740 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:00,215 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:00,218 - INFO - page number: 1
+2023-04-12 02:01:00,218 - INFO - number of users in this page: 74
+2023-04-12 02:01:00,218 - INFO - total users: 74
+2023-04-12 02:01:00,219 - INFO - number of rows written: 73
+
+
+
+2023-04-12 02:01:00,221 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:02,055 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:02,057 - INFO - wait_time: 0
+
+2023-04-12 02:01:02,058 - INFO - * 2009-02-01..2009-03-03 *
+2023-04-12 02:01:02,059 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:03,619 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:03,622 - INFO - page number: 1
+2023-04-12 02:01:03,622 - INFO - number of users in this page: 70
+2023-04-12 02:01:03,622 - INFO - total users: 70
+2023-04-12 02:01:03,623 - INFO - number of rows written: 68
+
+
+
+2023-04-12 02:01:03,624 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:05,194 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:05,196 - INFO - wait_time: 0
+
+2023-04-12 02:01:05,196 - INFO - * 2009-03-04..2009-04-03 *
+2023-04-12 02:01:05,198 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:06,515 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:06,517 - INFO - page number: 1
+2023-04-12 02:01:06,517 - INFO - number of users in this page: 68
+2023-04-12 02:01:06,517 - INFO - total users: 68
+2023-04-12 02:01:06,518 - INFO - number of rows written: 67
+
+
+
+2023-04-12 02:01:06,519 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:08,239 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:08,241 - INFO - wait_time: 0
+
+2023-04-12 02:01:08,241 - INFO - * 2009-04-04..2009-05-04 *
+2023-04-12 02:01:08,243 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:09,405 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:09,407 - INFO - page number: 1
+2023-04-12 02:01:09,407 - INFO - number of users in this page: 59
+2023-04-12 02:01:09,407 - INFO - total users: 59
+2023-04-12 02:01:09,408 - INFO - number of rows written: 58
+
+
+
+2023-04-12 02:01:09,409 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:10,656 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:10,658 - INFO - wait_time: 0
+
+2023-04-12 02:01:10,659 - INFO - * 2009-05-05..2009-06-04 *
+2023-04-12 02:01:10,660 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:12,529 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:12,531 - INFO - page number: 1
+2023-04-12 02:01:12,532 - INFO - number of users in this page: 87
+2023-04-12 02:01:12,532 - INFO - total users: 87
+2023-04-12 02:01:12,532 - INFO - number of rows written: 85
+
+
+
+2023-04-12 02:01:12,534 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:14,321 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:14,323 - INFO - wait_time: 0
+
+2023-04-12 02:01:14,323 - INFO - * 2009-06-05..2009-07-05 *
+2023-04-12 02:01:14,325 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:15,688 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:15,691 - INFO - page number: 1
+2023-04-12 02:01:15,691 - INFO - number of users in this page: 70
+2023-04-12 02:01:15,691 - INFO - total users: 70
+2023-04-12 02:01:15,691 - INFO - number of rows written: 69
+
+
+
+2023-04-12 02:01:15,693 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:17,180 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:17,182 - INFO - wait_time: 0
+
+2023-04-12 02:01:17,183 - INFO - * 2009-07-06..2009-08-05 *
+2023-04-12 02:01:17,184 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:18,692 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:18,695 - INFO - page number: 1
+2023-04-12 02:01:18,695 - INFO - number of users in this page: 72
+2023-04-12 02:01:18,695 - INFO - total users: 72
+2023-04-12 02:01:18,695 - INFO - number of rows written: 72
+
+
+
+2023-04-12 02:01:18,697 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:20,413 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:20,415 - INFO - wait_time: 0
+
+2023-04-12 02:01:20,415 - INFO - * 2009-08-06..2009-09-05 *
+2023-04-12 02:01:20,417 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:21,980 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:21,982 - INFO - page number: 1
+2023-04-12 02:01:21,982 - INFO - number of users in this page: 87
+2023-04-12 02:01:21,982 - INFO - total users: 87
+2023-04-12 02:01:21,983 - INFO - number of rows written: 84
+
+
+
+2023-04-12 02:01:21,984 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:23,538 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:23,540 - INFO - wait_time: 0
+
+2023-04-12 02:01:23,541 - INFO - * 2009-09-06..2009-10-06 *
+2023-04-12 02:01:23,542 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:25,137 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:25,140 - INFO - page number: 1
+2023-04-12 02:01:25,140 - INFO - number of users in this page: 90
+2023-04-12 02:01:25,140 - INFO - total users: 90
+2023-04-12 02:01:25,141 - INFO - number of rows written: 89
+
+
+
+2023-04-12 02:01:25,143 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:26,880 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:26,882 - INFO - wait_time: 0
+
+2023-04-12 02:01:26,882 - INFO - * 2009-10-07..2009-11-06 *
+2023-04-12 02:01:26,884 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:28,638 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:28,641 - INFO - page number: 1
+2023-04-12 02:01:28,641 - INFO - number of users in this page: 100
+2023-04-12 02:01:28,641 - INFO - total users: 104
+2023-04-12 02:01:28,642 - INFO - number of rows written: 100
+
+
+
+2023-04-12 02:01:28,644 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:30,745 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:30,748 - INFO - wait_time: 0
+
+2023-04-12 02:01:30,749 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:31,132 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:31,134 - INFO - page number: 2
+2023-04-12 02:01:31,134 - INFO - number of users in this page: 4
+2023-04-12 02:01:31,134 - INFO - total users: 104
+2023-04-12 02:01:31,135 - INFO - number of rows written: 1
+
+
+
+2023-04-12 02:01:31,136 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:31,478 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:31,480 - INFO - wait_time: 0
+
+2023-04-12 02:01:31,480 - INFO - * 2009-11-07..2009-12-07 *
+2023-04-12 02:01:31,482 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:34,234 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:34,237 - INFO - page number: 1
+2023-04-12 02:01:34,237 - INFO - number of users in this page: 100
+2023-04-12 02:01:34,237 - INFO - total users: 117
+2023-04-12 02:01:34,238 - INFO - number of rows written: 98
+
+
+
+2023-04-12 02:01:34,240 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:36,093 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:36,096 - INFO - wait_time: 0
+
+2023-04-12 02:01:36,097 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:36,632 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:36,634 - INFO - page number: 2
+2023-04-12 02:01:36,635 - INFO - number of users in this page: 17
+2023-04-12 02:01:36,635 - INFO - total users: 117
+2023-04-12 02:01:36,635 - INFO - number of rows written: 16
+
+
+
+2023-04-12 02:01:36,637 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:37,194 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:37,196 - INFO - wait_time: 0
+
+2023-04-12 02:01:37,197 - INFO - * 2009-12-08..2010-01-07 *
+2023-04-12 02:01:37,198 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:39,225 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:39,228 - INFO - page number: 1
+2023-04-12 02:01:39,228 - INFO - number of users in this page: 100
+2023-04-12 02:01:39,228 - INFO - total users: 114
+2023-04-12 02:01:39,229 - INFO - number of rows written: 100
+
+
+
+2023-04-12 02:01:39,230 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:41,311 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:41,313 - INFO - wait_time: 0
+
+2023-04-12 02:01:41,314 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:41,874 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:41,876 - INFO - page number: 2
+2023-04-12 02:01:41,876 - INFO - number of users in this page: 14
+2023-04-12 02:01:41,876 - INFO - total users: 114
+2023-04-12 02:01:41,877 - INFO - number of rows written: 13
+
+
+
+2023-04-12 02:01:41,878 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:42,370 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:42,372 - INFO - wait_time: 0
+
+2023-04-12 02:01:42,373 - INFO - * 2010-01-08..2010-02-07 *
+2023-04-12 02:01:42,374 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:44,275 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:44,278 - INFO - page number: 1
+2023-04-12 02:01:44,278 - INFO - number of users in this page: 100
+2023-04-12 02:01:44,278 - INFO - total users: 140
+2023-04-12 02:01:44,279 - INFO - number of rows written: 97
+
+
+
+2023-04-12 02:01:44,281 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:46,212 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:46,214 - INFO - wait_time: 0
+
+2023-04-12 02:01:46,215 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:47,175 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:47,177 - INFO - page number: 2
+2023-04-12 02:01:47,177 - INFO - number of users in this page: 40
+2023-04-12 02:01:47,177 - INFO - total users: 140
+2023-04-12 02:01:47,178 - INFO - number of rows written: 38
+
+
+
+2023-04-12 02:01:47,179 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:48,079 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:48,081 - INFO - wait_time: 0
+
+2023-04-12 02:01:48,081 - INFO - * 2010-02-08..2010-03-10 *
+2023-04-12 02:01:48,082 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:49,999 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:50,002 - INFO - page number: 1
+2023-04-12 02:01:50,002 - INFO - number of users in this page: 100
+2023-04-12 02:01:50,002 - INFO - total users: 143
+2023-04-12 02:01:50,003 - INFO - number of rows written: 98
+
+
+
+2023-04-12 02:01:50,005 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:51,910 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:51,913 - INFO - wait_time: 0
+
+2023-04-12 02:01:51,914 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:52,857 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:52,860 - INFO - page number: 2
+2023-04-12 02:01:52,860 - INFO - number of users in this page: 43
+2023-04-12 02:01:52,860 - INFO - total users: 143
+2023-04-12 02:01:52,860 - INFO - number of rows written: 39
+
+
+
+2023-04-12 02:01:52,862 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:53,790 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:53,792 - INFO - wait_time: 0
+
+2023-04-12 02:01:53,792 - INFO - * 2010-03-11..2010-04-10 *
+2023-04-12 02:01:53,794 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:55,546 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:55,549 - INFO - page number: 1
+2023-04-12 02:01:55,549 - INFO - number of users in this page: 100
+2023-04-12 02:01:55,549 - INFO - total users: 154
+2023-04-12 02:01:55,550 - INFO - number of rows written: 99
+
+
+
+2023-04-12 02:01:55,551 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:57,873 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:57,875 - INFO - wait_time: 0
+
+2023-04-12 02:01:57,877 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:01:59,098 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:01:59,100 - INFO - page number: 2
+2023-04-12 02:01:59,101 - INFO - number of users in this page: 54
+2023-04-12 02:01:59,101 - INFO - total users: 154
+2023-04-12 02:01:59,101 - INFO - number of rows written: 48
+
+
+
+2023-04-12 02:01:59,103 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:00,220 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:00,223 - INFO - wait_time: 0
+
+2023-04-12 02:02:00,223 - INFO - * 2010-04-11..2010-05-11 *
+2023-04-12 02:02:00,224 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:02,094 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:02,097 - INFO - page number: 1
+2023-04-12 02:02:02,097 - INFO - number of users in this page: 100
+2023-04-12 02:02:02,097 - INFO - total users: 183
+2023-04-12 02:02:02,098 - INFO - number of rows written: 99
+
+
+
+2023-04-12 02:02:02,100 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:04,570 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:04,572 - INFO - wait_time: 0
+
+2023-04-12 02:02:04,574 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:06,406 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:06,408 - INFO - page number: 2
+2023-04-12 02:02:06,409 - INFO - number of users in this page: 83
+2023-04-12 02:02:06,409 - INFO - total users: 183
+2023-04-12 02:02:06,410 - INFO - number of rows written: 80
+
+
+
+2023-04-12 02:02:06,411 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:08,079 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:08,081 - INFO - wait_time: 0
+
+2023-04-12 02:02:08,081 - INFO - * 2010-05-12..2010-06-11 *
+2023-04-12 02:02:08,083 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:10,328 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:10,330 - INFO - page number: 1
+2023-04-12 02:02:10,331 - INFO - number of users in this page: 100
+2023-04-12 02:02:10,331 - INFO - total users: 179
+2023-04-12 02:02:10,332 - INFO - number of rows written: 100
+
+
+
+2023-04-12 02:02:10,333 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:12,568 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:12,570 - INFO - wait_time: 0
+
+2023-04-12 02:02:12,572 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:14,182 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:14,184 - INFO - page number: 2
+2023-04-12 02:02:14,185 - INFO - number of users in this page: 79
+2023-04-12 02:02:14,185 - INFO - total users: 179
+2023-04-12 02:02:14,185 - INFO - number of rows written: 76
+
+
+
+2023-04-12 02:02:14,187 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:15,764 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:15,766 - INFO - wait_time: 0
+
+2023-04-12 02:02:15,766 - INFO - * 2010-06-12..2010-07-12 *
+2023-04-12 02:02:15,768 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:17,824 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:17,826 - INFO - page number: 1
+2023-04-12 02:02:17,827 - INFO - number of users in this page: 100
+2023-04-12 02:02:17,827 - INFO - total users: 169
+2023-04-12 02:02:17,828 - INFO - number of rows written: 99
+
+
+
+2023-04-12 02:02:17,830 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:19,760 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:19,762 - INFO - wait_time: 0
+
+2023-04-12 02:02:19,764 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-04-12 02:02:21,100 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-04-12 02:02:21,102 - INFO - page number: 2
+2023-04-12 02:02:21,102 - INFO - number of users in this page: 69
+2023-04-12 02:02:21,102 - INFO - total users: 169
+2023-04-12 02:02:21,103 - INFO - number of rows written: 56
+
+
+
+2023-04-12 02:02:21,104 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
