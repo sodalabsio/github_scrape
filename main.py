@@ -1,4 +1,4 @@
-import os, json, csv, time
+import os, csv, time
 from query import Query
 from locations import dict_of_locations
 from datetime import datetime, timedelta

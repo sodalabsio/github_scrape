@@ -1,11 +1,16 @@
-import requests, time
+import os, requests, time
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
 
 class Query:
     def __init__(self, location:str, date_range:str, cursor=None):
         self.location = location
         self.date_range = date_range
         self.cursor = cursor
-        GITHUB_TOKEN = "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"
+        GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
         self.headers = {"Authorization": f"Bearer {GITHUB_TOKEN}"}
         self.variables = {"queryString": f"location:{self.location} created:{self.date_range}", "afterCursor": self.cursor}
 

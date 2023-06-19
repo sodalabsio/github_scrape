@@ -1,6 +1,4 @@
-import os, time, re
-import csv
-import numpy as np
+import os
 import pandas as pd
 from glob import glob
 from locations import dict_of_locations

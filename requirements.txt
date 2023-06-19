@@ -1,0 +1,7 @@
+certifi==2023.5.7
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1678108872112/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dotenv==1.0.0
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1686156552494/work

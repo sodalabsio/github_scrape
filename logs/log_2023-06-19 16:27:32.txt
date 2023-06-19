@@ -1,0 +1,26 @@
+2023-06-19 16:27:32,848 - INFO - ***france***
+2023-06-19 16:27:32,848 - INFO - * 2009-01-01..2009-01-16 *
+2023-06-19 16:27:32,898 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-06-19 16:27:34,257 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-06-19 16:27:34,266 - INFO - page number: 1
+2023-06-19 16:27:34,266 - INFO - number of users in this page: 44
+2023-06-19 16:27:34,266 - INFO - total users: 44
+2023-06-19 16:27:34,267 - INFO - number of rows written: 44
+
+
+
+2023-06-19 16:27:34,271 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-06-19 16:27:35,486 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-06-19 16:27:35,489 - INFO - wait_time: 0
+
+2023-06-19 16:27:35,491 - INFO - * 2009-01-17..2009-02-01 *
+2023-06-19 16:27:35,496 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2023-06-19 16:27:36,513 - DEBUG - https://api.github.com:443 "POST /graphql HTTP/1.1" 200 None
+2023-06-19 16:27:36,517 - INFO - page number: 1
+2023-06-19 16:27:36,517 - INFO - number of users in this page: 31
+2023-06-19 16:27:36,517 - INFO - total users: 31
+2023-06-19 16:27:36,517 - INFO - number of rows written: 30
+
+
+
+2023-06-19 16:27:36,522 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
