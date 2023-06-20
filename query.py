@@ -1,9 +1,11 @@
 import os, requests, time
 from dotenv import load_dotenv
 
+# 1. create a .env file 
+# 2. define GITHUB_TOKEN=<your github token> inside .env
+
+
 load_dotenv()
-
-
 
 class Query:
     def __init__(self, location:str, date_range:str, cursor=None):
