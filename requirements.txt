@@ -1,4 +1,4 @@
-certifi==2023.5.7
+certifi==2023.7.22
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1678108872112/work
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
 PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
